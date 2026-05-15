@@ -10,7 +10,7 @@ hero:
       text: 시작하기
       link: /01-getting-started
     - theme: alt
-      text: 가이드 보기
+      text: 전체 가이드 보기
       link: /01-getting-started
 
 features:
